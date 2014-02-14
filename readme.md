@@ -1,5 +1,10 @@
 #### Moo-debug mail templates
 
+
+##### Usage
+
+[![usage](./screenshot/usage.png =250x)](https://asciinema.org/a/7664)
+
 * * *
 
 
