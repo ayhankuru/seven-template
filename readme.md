@@ -13,7 +13,7 @@ curl https://raw.github.com/cobaimelan/mo-template/master/blitz/blitz.html -o bl
 
 
 ```bash
-wget https://raw.github.com/cobaimelan/mo-template/master/blitz/blitz.html -o blitz.html -o blitz.html
+wget https://raw.github.com/cobaimelan/mo-template/master/blitz/blitz.html -o blitz.html
 ``` 
 
 
@@ -31,7 +31,7 @@ curl https://raw.github.com/cobaimelan/mo-template/master/hero/hero.html -o hero
 
 
 ```bash
-wget https://raw.github.com/cobaimelan/mo-template/master/hero/hero.html -o blitz.html -o hero.html
+wget https://raw.github.com/cobaimelan/mo-template/master/hero/hero.html -o hero.html
 ``` 
 
 
@@ -48,5 +48,5 @@ curl https://raw.github.com/cobaimelan/mo-template/master/herox/herox.html -o he
 
 
 ```bash
-wget https://raw.github.com/cobaimelan/mo-template/master/herox/herox.html -o blitz.html -o herox.html
+wget https://raw.github.com/cobaimelan/mo-template/master/herox/herox.html  -o herox.html
 ``` 
