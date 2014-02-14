@@ -3,7 +3,7 @@
 
 ##### Usage
 
-[![usage](./screenshot/usage.png =250x)](https://asciinema.org/a/7664)
+[![usage](./screenshot/usage.png)](https://asciinema.org/a/7664)
 
 * * *
 
