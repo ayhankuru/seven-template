@@ -1,4 +1,4 @@
-#### Moo-debug mail templates
+#### Seven mail templates
 
 
 ##### Usage
@@ -13,12 +13,12 @@
 ##### Blitz İnstall
 
 ```bash
-curl https://raw.github.com/cobaimelan/mo-template/master/blitz/blitz.html -o blitz.html
+curl https://raw.github.com/ayhankuru/seven-template/master/blitz/blitz.html -o blitz.html
 ``` 
 
 
 ```bash
-wget https://raw.github.com/cobaimelan/mo-template/master/blitz/blitz.html -o blitz.html
+wget https://raw.github.com/ayhankuru/seven-template/master/blitz/blitz.html -o blitz.html
 ``` 
 
 
@@ -31,12 +31,12 @@ wget https://raw.github.com/cobaimelan/mo-template/master/blitz/blitz.html -o bl
 ##### Hero İnstall
 
 ```bash
-curl https://raw.github.com/cobaimelan/mo-template/master/hero/hero.html -o hero.html
+curl https://raw.github.com/ayhankuru/seven-template/master/hero/hero.html -o hero.html
 ``` 
 
 
 ```bash
-wget https://raw.github.com/cobaimelan/mo-template/master/hero/hero.html -o hero.html
+wget https://raw.github.com/ayhankuru/seven-template/master/hero/hero.html -o hero.html
 ``` 
 
 
@@ -48,10 +48,10 @@ wget https://raw.github.com/cobaimelan/mo-template/master/hero/hero.html -o hero
 ##### Herox İnstall
 
 ```bash
-curl https://raw.github.com/cobaimelan/mo-template/master/herox/herox.html -o herox.html
+curl https://raw.github.com/ayhankuru/seven-template/master/herox/herox.html -o herox.html
 ``` 
 
 
 ```bash
-wget https://raw.github.com/cobaimelan/mo-template/master/herox/herox.html  -o herox.html
+wget https://raw.github.com/ayhankuru/seven-template/master/herox/herox.html  -o herox.html
 ``` 
