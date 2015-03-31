@@ -3,7 +3,7 @@
 
 ##### Usage
 
-[![usage](./screenshot/usage.png)](https://asciinema.org/a/7664)
+[![asciicast](https://asciinema.org/a/7664.png)](https://asciinema.org/a/7664)
 
 * * *
 
